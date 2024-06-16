@@ -15,7 +15,7 @@ public class BridgeTest {
             // 假设buildGraph方法接受一个字符串并构建词图
             wordGraph.buildGraph("explore strange new worlds to seek out new life and new mind and");
 
-            //wordGraph.buildGraph("");
+
         }
 
         // 测试用例1: 两个词都存在于词图中且存在桥接词
